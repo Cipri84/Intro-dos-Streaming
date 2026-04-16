@@ -8,7 +8,7 @@
   {
     "id": "572AA72D-46A5-41B7-9264-2AD8173211CC",
     "title": "Disney",
-    "videoURL": "https://github.com/Cipri84/Intro-dos-Streaming/raw/6b3d8a973c4cf023f480eeefb4a1e5983cb9cbbb/disneyplus.mp4",
+    "videoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/main/networks%20videos/disneyplus.mp4",
     "logoURL": "https://raw.githubusercontent.com/mrtxiv/networks-video-collection/refs/heads/main/no%20logo.png"
   },
   {
@@ -46,5 +46,17 @@
     "title": "Crunchyroll",
     "videoURL": "https://raw.githubusercontent.com/Cipri84/Intro-dos-Streaming/6b3d8a973c4cf023f480eeefb4a1e5983cb9cbbb/crunchyroll.mp4",
     "logoURL": "https://files.orangebyte.io/resources/omni/images/groups/crunchyroll.png"
+  },
+  {
+    "id": "C8A21B47-3D9E-41F6-B20C-5D6A7E8F9B0A",
+    "title": "MCU",
+    "videoURL": "https://raw.githubusercontent.com/Cipri84/Intro-dos-Streaming/5f5d3e7ff6dd07e77888615cf2405bf359f0424e/Marvel%20Studios.mkv",
+    "logoURL": "https://raw.githubusercontent.com/Cipri84/Imagens-Fusion/refs/heads/main/Marvel%20Studios.jpeg"
+  },
+  {
+    "id": "7B8E9D2C-1A4F-4C5D-B6E7-A8F9B0C1D2E3",
+    "title": "Oscars",
+    "videoURL": "https://raw.githubusercontent.com/Cipri84/Intro-dos-Streaming/5f5d3e7ff6dd07e77888615cf2405bf359f0424e/Oscar.mp4",
+    "logoURL": "https://raw.githubusercontent.com/Cipri84/Imagens-Fusion/refs/heads/main/Oscar.jpeg"
   }
 ]
